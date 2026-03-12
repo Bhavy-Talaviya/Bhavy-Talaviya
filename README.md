@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Bhavy, a passionate Full Stack Web Developer who enjoys building modern and scalable web applications.</br>I work on both frontend and backend development to create complete web solutions. I like solving real-world problems through code and continuously improving my development skills.</br> I focus on writing clean, efficient, and maintainable code while learning new technologies and best practices in web development.<br><br>My main interests include JavaScript-based development, creating responsive user interfaces, developing APIs, and working with databases. I am always eager to explore new tools and technologies to grow as a developer.
+# 💫 About Me:-
+Hi, I'm Bhavy, a passionate Full Stack Web Developer who enjoys building modern and scalable web applications.</br>I work on both frontend and backend development to create complete web solutions. I like solving real-world problems through code and continuously improving my development skills.</br> I focus on writing clean, efficient, and maintainable code while learning new technologies and best practices in web development.<br><br>My main interests include JavaScript-based development, creating responsive user interfaces, developing APIs, and working with databases.I am always eager to explore new tools and technologies to grow as a developer.
 
 
 ## 🌐 Socials:
