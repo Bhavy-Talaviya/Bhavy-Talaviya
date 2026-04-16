@@ -17,26 +17,21 @@
 
 ---
 
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+<div align="center">
+  <h2>👨‍💻About Me...</h2>
+</div>
 
 <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```javascript
-const bhavy = {
-  name: "Bhavy Talaviya",
-  location: "Ahmedabad, India 🇮🇳",
-  role: "Full Stack Developer",
-  stack: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
-  languages: ["JavaScript", "Python", "C", "C++", "HTML", "CSS"],
-  tools: ["TailwindCSS", "Redux", "Vite", "Git", "Figma"],
-  deploy: ["Vercel", "Netlify", "Render", "AWS"],
-  portfolio: "https://bhavy-talaviya-portfolio-smoky.vercel.app/",
-  currentFocus: "Building scalable full-stack solutions",
-  funFact: "I turn caffeine ☕ into code 💻"
-};
-```
+Hey! I'm **Bhavy Talaviya**, a passionate **Full Stack Developer** based in **Ahmedabad, India** 🇮🇳.
+I love building scalable, end-to-end web solutions that solve real problems — whether it's crafting
+pixel-perfect UIs or designing robust backend APIs, I bring ideas to life from start to finish.
 
+- 🔭 Currently focused on **building scalable full-stack solutions**
+- 💻 I work with **React, Node.js, Express, MongoDB & MySQL**
+- 🛠️ Tools I love: **TailwindCSS, Redux, Vite, Git & Figma**
+- 🚀 I deploy on **Vercel, Netlify, Render & AWS**
+- ⚡ Fun fact: I turn caffeine ☕ into code 💻
 ---
 
 <!-- Social Links -->
